@@ -1,140 +1,282 @@
-﻿provincia;localidad;id_localidad;id_provincia
-Buenos Aires-GBA;11 de Septiembre;143;2
-Buenos Aires-GBA;20 de Junio;144;2
-Buenos Aires-GBA;25 de Mayo;145;2
-Buenos Aires-GBA;Acassuso;146;2
-Buenos Aires-GBA;AdroguÃ©;147;2
-Buenos Aires-GBA;Aldo Bonzi;148;2
-Buenos Aires-GBA;Ãrea Reserva CinturÃ³n EcolÃ³gico;149;2
-Buenos Aires-GBA;Avellaneda;150;2
-Buenos Aires-GBA;Banfield;151;2
-Buenos Aires-GBA;Barrio Parque;152;2
-Buenos Aires-GBA;Barrio Santa Teresita;153;2
-Buenos Aires-GBA;Beccar;154;2
-Buenos Aires-GBA;Bella Vista;155;2
-Buenos Aires-GBA;Berazategui;156;2
-Buenos Aires-GBA;Bernal Este;157;2
-Buenos Aires-GBA;Bernal Oeste;158;2
-Buenos Aires-GBA;Billinghurst;159;2
-Buenos Aires-GBA;Boulogne;160;2
-Buenos Aires-GBA;Burzaco;161;2
-Buenos Aires-GBA;Carapachay;162;2
-Buenos Aires-GBA;Caseros;163;2
-Buenos Aires-GBA;Castelar;164;2
-Buenos Aires-GBA;Churruca;165;2
-Buenos Aires-GBA;Ciudad Evita;166;2
-Buenos Aires-GBA;Ciudad Madero;167;2
-Buenos Aires-GBA;Ciudadela;168;2
-Buenos Aires-GBA;Claypole;169;2
-Buenos Aires-GBA;Crucecita;170;2
-Buenos Aires-GBA;Dock Sud;171;2
-Buenos Aires-GBA;Don Bosco;172;2
-Buenos Aires-GBA;Don Orione;173;2
-Buenos Aires-GBA;El JagÃ¼el;174;2
-Buenos Aires-GBA;El Libertador;175;2
-Buenos Aires-GBA;El Palomar;176;2
-Buenos Aires-GBA;El Tala;177;2
-Buenos Aires-GBA;El TrÃ©bol;178;2
-Buenos Aires-GBA;Ezeiza;179;2
-Buenos Aires-GBA;Ezpeleta;180;2
-Buenos Aires-GBA;Florencio Varela;181;2
-Buenos Aires-GBA;Florida;182;2
-Buenos Aires-GBA;Francisco Ãlvarez;183;2
-Buenos Aires-GBA;Gerli;184;2
-Buenos Aires-GBA;Glew;185;2
-Buenos Aires-GBA;GonzÃ¡lez CatÃ¡n;186;2
-Buenos Aires-GBA;Gral. Lamadrid;187;2
-Buenos Aires-GBA;Grand Bourg;188;2
-Buenos Aires-GBA;Gregorio de Laferrere;189;2
-Buenos Aires-GBA;Guillermo Enrique Hudson;190;2
-Buenos Aires-GBA;Haedo;191;2
-Buenos Aires-GBA;Hurlingham;192;2
-Buenos Aires-GBA;Ing. Sourdeaux;193;2
-Buenos Aires-GBA;Isidro Casanova;194;2
-Buenos Aires-GBA;ItuzaingÃ³;195;2
-Buenos Aires-GBA;JosÃ© C. Paz;196;2
-Buenos Aires-GBA;JosÃ© Ingenieros;197;2
-Buenos Aires-GBA;JosÃ© Marmol;198;2
-Buenos Aires-GBA;La Lucila;199;2
-Buenos Aires-GBA;La Reja;200;2
-Buenos Aires-GBA;La Tablada;201;2
-Buenos Aires-GBA;LanÃºs;202;2
-Buenos Aires-GBA;Llavallol;203;2
-Buenos Aires-GBA;Loma Hermosa;204;2
-Buenos Aires-GBA;Lomas de Zamora;205;2
-Buenos Aires-GBA;Lomas del MillÃ³n;206;2
-Buenos Aires-GBA;Lomas del Mirador;207;2
-Buenos Aires-GBA;Longchamps;208;2
-Buenos Aires-GBA;Los Polvorines;209;2
-Buenos Aires-GBA;Luis GuillÃ³n;210;2
-Buenos Aires-GBA;Malvinas Argentinas;211;2
-Buenos Aires-GBA;MartÃ­n Coronado;212;2
-Buenos Aires-GBA;MartÃ­nez;213;2
-Buenos Aires-GBA;Merlo;214;2
-Buenos Aires-GBA;Ministro Rivadavia;215;2
-Buenos Aires-GBA;Monte Chingolo;216;2
-Buenos Aires-GBA;Monte Grande;217;2
-Buenos Aires-GBA;Moreno;218;2
-Buenos Aires-GBA;MorÃ³n;219;2
-Buenos Aires-GBA;MuÃ±iz;220;2
-Buenos Aires-GBA;Olivos;221;2
-Buenos Aires-GBA;Pablo NoguÃ©s;222;2
-Buenos Aires-GBA;Pablo PodestÃ¡;223;2
-Buenos Aires-GBA;Paso del Rey;224;2
-Buenos Aires-GBA;Pereyra;225;2
-Buenos Aires-GBA;PiÃ±eiro;226;2
-Buenos Aires-GBA;PlÃ¡tanos;227;2
-Buenos Aires-GBA;Pontevedra;228;2
-Buenos Aires-GBA;Quilmes;229;2
-Buenos Aires-GBA;Rafael Calzada;230;2
-Buenos Aires-GBA;Rafael Castillo;231;2
-Buenos Aires-GBA;Ramos MejÃ­a;232;2
-Buenos Aires-GBA;Ranelagh;233;2
-Buenos Aires-GBA;Remedios de Escalada;234;2
-Buenos Aires-GBA;SÃ¡enz PeÃ±a;235;2
-Buenos Aires-GBA;San Antonio de Padua;236;2
-Buenos Aires-GBA;San Fernando;237;2
-Buenos Aires-GBA;San Francisco Solano;238;2
-Buenos Aires-GBA;San Isidro;239;2
-Buenos Aires-GBA;San JosÃ©;240;2
-Buenos Aires-GBA;San Justo;241;2
-Buenos Aires-GBA;San MartÃ­n;242;2
-Buenos Aires-GBA;San Miguel;243;2
-Buenos Aires-GBA;Santos Lugares;244;2
-Buenos Aires-GBA;SarandÃ­;245;2
-Buenos Aires-GBA;Sourigues;246;2
-Buenos Aires-GBA;Tapiales;247;2
-Buenos Aires-GBA;Temperley;248;2
-Buenos Aires-GBA;Tigre;249;2
-Buenos Aires-GBA;Tortuguitas;250;2
-Buenos Aires-GBA;TristÃ¡n SuÃ¡rez;251;2
-Buenos Aires-GBA;Trujui;252;2
-Buenos Aires-GBA;Turdera;253;2
-Buenos Aires-GBA;ValentÃ­n Alsina;254;2
-Buenos Aires-GBA;Vicente LÃ³pez;255;2
-Buenos Aires-GBA;Villa Adelina;256;2
-Buenos Aires-GBA;Villa Ballester;257;2
-Buenos Aires-GBA;Villa Bosch;258;2
-Buenos Aires-GBA;Villa Caraza;259;2
-Buenos Aires-GBA;Villa Celina;260;2
-Buenos Aires-GBA;Villa Centenario;261;2
-Buenos Aires-GBA;Villa de Mayo;262;2
-Buenos Aires-GBA;Villa Diamante;263;2
-Buenos Aires-GBA;Villa DomÃ­nico;264;2
-Buenos Aires-GBA;Villa EspaÃ±a;265;2
-Buenos Aires-GBA;Villa Fiorito;266;2
-Buenos Aires-GBA;Villa Guillermina;267;2
-Buenos Aires-GBA;Villa Insuperable;268;2
-Buenos Aires-GBA;Villa JosÃ© LeÃ³n SuÃ¡rez;269;2
-Buenos Aires-GBA;Villa La Florida;270;2
-Buenos Aires-GBA;Villa Luzuriaga;271;2
-Buenos Aires-GBA;Villa Martelli;272;2
-Buenos Aires-GBA;Villa Obrera;273;2
-Buenos Aires-GBA;Villa Progreso;274;2
-Buenos Aires-GBA;Villa Raffo;275;2
-Buenos Aires-GBA;Villa Sarmiento;276;2
-Buenos Aires-GBA;Villa Tesei;277;2
-Buenos Aires-GBA;Villa Udaondo;278;2
-Buenos Aires-GBA;Virrey del Pino;279;2
-Buenos Aires-GBA;Wilde;280;2
-Buenos Aires-GBA;William Morris;281;2
+﻿id;id_privincia;localidad;provincia
+1;1;25 de Mayo;Buenos Aires
+2;1;3 de febrero;Buenos Aires
+3;1;A. Alsina;Buenos Aires
+4;1;A. Gonzáles Cháves;Buenos Aires
+5;1;Aguas Verdes;Buenos Aires
+6;1;Alberti;Buenos Aires
+7;1;Arrecifes;Buenos Aires
+8;1;Ayacucho;Buenos Aires
+9;1;Azul;Buenos Aires
+10;1;Bahía Blanca;Buenos Aires
+11;1;Balcarce;Buenos Aires
+12;1;Baradero;Buenos Aires
+13;1;Benito Juárez;Buenos Aires
+14;1;Berisso;Buenos Aires
+15;1;Bolívar;Buenos Aires
+16;1;Bragado;Buenos Aires
+17;1;Brandsen;Buenos Aires
+18;1;Campana;Buenos Aires
+19;1;Cañuelas;Buenos Aires
+20;1;Capilla del Señor;Buenos Aires
+21;1;Capitán Sarmiento;Buenos Aires
+22;1;Carapachay;Buenos Aires
+23;1;Carhue;Buenos Aires
+24;1;Cariló;Buenos Aires
+25;1;Carlos Casares;Buenos Aires
+26;1;Carlos Tejedor;Buenos Aires
+27;1;Carmen de Areco;Buenos Aires
+28;1;Carmen de Patagones;Buenos Aires
+29;1;Castelli;Buenos Aires
+30;1;Chacabuco;Buenos Aires
+31;1;Chascomús;Buenos Aires
+32;1;Chivilcoy;Buenos Aires
+33;1;Colón;Buenos Aires
+34;1;Coronel Dorrego;Buenos Aires
+35;1;Coronel Pringles;Buenos Aires
+36;1;Coronel Rosales;Buenos Aires
+37;1;Coronel Suarez;Buenos Aires
+38;1;Costa Azul;Buenos Aires
+39;1;Costa Chica;Buenos Aires
+40;1;Costa del Este;Buenos Aires
+41;1;Costa Esmeralda;Buenos Aires
+42;1;Daireaux;Buenos Aires
+43;1;Darregueira;Buenos Aires
+44;1;Del Viso;Buenos Aires
+45;1;Dolores;Buenos Aires
+46;1;Don Torcuato;Buenos Aires
+47;1;Ensenada;Buenos Aires
+48;1;Escobar;Buenos Aires
+49;1;Exaltación de la Cruz;Buenos Aires
+50;1;Florentino Ameghino;Buenos Aires
+51;1;Garín;Buenos Aires
+52;1;Gral. Alvarado;Buenos Aires
+53;1;Gral. Alvear;Buenos Aires
+54;1;Gral. Arenales;Buenos Aires
+55;1;Gral. Belgrano;Buenos Aires
+56;1;Gral. Guido;Buenos Aires
+57;1;Gral. Lamadrid;Buenos Aires
+58;1;Gral. Las Heras;Buenos Aires
+59;1;Gral. Lavalle;Buenos Aires
+60;1;Gral. Madariaga;Buenos Aires
+61;1;Gral. Pacheco;Buenos Aires
+62;1;Gral. Paz;Buenos Aires
+63;1;Gral. Pinto;Buenos Aires
+64;1;Gral. Pueyrredón;Buenos Aires
+65;1;Gral. Rodríguez;Buenos Aires
+66;1;Gral. Viamonte;Buenos Aires
+67;1;Gral. Villegas;Buenos Aires
+68;1;Guaminí;Buenos Aires
+69;1;Guernica;Buenos Aires
+70;1;Hipólito Yrigoyen;Buenos Aires
+71;1;Ing. Maschwitz;Buenos Aires
+72;1;Junín;Buenos Aires
+73;1;La Plata;Buenos Aires
+74;1;Laprida;Buenos Aires
+75;1;Las Flores;Buenos Aires
+76;1;Las Toninas;Buenos Aires
+77;1;Leandro N. Alem;Buenos Aires
+78;1;Lincoln;Buenos Aires
+79;1;Loberia;Buenos Aires
+80;1;Lobos;Buenos Aires
+81;1;Los Cardales;Buenos Aires
+82;1;Los Toldos;Buenos Aires
+83;1;Lucila del Mar;Buenos Aires
+84;1;Luján;Buenos Aires
+85;1;Magdalena;Buenos Aires
+86;1;Maipú;Buenos Aires
+87;1;Mar Chiquita;Buenos Aires
+88;1;Mar de Ajó;Buenos Aires
+89;1;Mar de las Pampas;Buenos Aires
+90;1;Mar del Plata;Buenos Aires
+91;1;Mar del Tuyú;Buenos Aires
+92;1;Marcos Paz;Buenos Aires
+93;1;Mercedes;Buenos Aires
+94;1;Miramar;Buenos Aires
+95;1;Monte;Buenos Aires
+96;1;Monte Hermoso;Buenos Aires
+97;1;Munro;Buenos Aires
+98;1;Navarro;Buenos Aires
+99;1;Necochea;Buenos Aires
+100;1;Olavarría;Buenos Aires
+101;1;Partido de la Costa;Buenos Aires
+102;1;Pehuajó;Buenos Aires
+103;1;Pellegrini;Buenos Aires
+104;1;Pergamino;Buenos Aires
+105;1;Pigüé;Buenos Aires
+106;1;Pila;Buenos Aires
+107;1;Pilar;Buenos Aires
+108;1;Pinamar;Buenos Aires
+109;1;Pinar del Sol;Buenos Aires
+110;1;Polvorines;Buenos Aires
+111;1;Pte. Perón;Buenos Aires
+112;1;Puán;Buenos Aires
+113;1;Punta Indio;Buenos Aires
+114;1;Ramallo;Buenos Aires
+115;1;Rauch;Buenos Aires
+116;1;Rivadavia;Buenos Aires
+117;1;Rojas;Buenos Aires
+118;1;Roque Pérez;Buenos Aires
+119;1;Saavedra;Buenos Aires
+120;1;Saladillo;Buenos Aires
+121;1;Salliqueló;Buenos Aires
+122;1;Salto;Buenos Aires
+123;1;San Andrés de Giles;Buenos Aires
+124;1;San Antonio de Areco;Buenos Aires
+125;1;San Antonio de Padua;Buenos Aires
+126;1;San Bernardo;Buenos Aires
+127;1;San Cayetano;Buenos Aires
+128;1;San Clemente del Tuyú;Buenos Aires
+129;1;San Nicolás;Buenos Aires
+130;1;San Pedro;Buenos Aires
+131;1;San Vicente;Buenos Aires
+132;1;Santa Teresita;Buenos Aires
+133;1;Suipacha;Buenos Aires
+134;1;Tandil;Buenos Aires
+135;1;Tapalqué;Buenos Aires
+136;1;Tordillo;Buenos Aires
+137;1;Tornquist;Buenos Aires
+138;1;Trenque Lauquen;Buenos Aires
+139;1;Tres Lomas;Buenos Aires
+140;1;Villa Gesell;Buenos Aires
+141;1;Villarino;Buenos Aires
+142;1;Zárate;Buenos Aires
+143;2;11 de Septiembre;Buenos Aires-GBA
+144;2;20 de Junio;Buenos Aires-GBA
+145;2;25 de Mayo;Buenos Aires-GBA
+146;2;Acassuso;Buenos Aires-GBA
+147;2;Adrogué;Buenos Aires-GBA
+148;2;Aldo Bonzi;Buenos Aires-GBA
+149;2;Área Reserva Cinturón Ecológico;Buenos Aires-GBA
+150;2;Avellaneda;Buenos Aires-GBA
+151;2;Banfield;Buenos Aires-GBA
+152;2;Barrio Parque;Buenos Aires-GBA
+153;2;Barrio Santa Teresita;Buenos Aires-GBA
+154;2;Beccar;Buenos Aires-GBA
+155;2;Bella Vista;Buenos Aires-GBA
+156;2;Berazategui;Buenos Aires-GBA
+157;2;Bernal Este;Buenos Aires-GBA
+158;2;Bernal Oeste;Buenos Aires-GBA
+159;2;Billinghurst;Buenos Aires-GBA
+160;2;Boulogne;Buenos Aires-GBA
+161;2;Burzaco;Buenos Aires-GBA
+162;2;Carapachay;Buenos Aires-GBA
+163;2;Caseros;Buenos Aires-GBA
+164;2;Castelar;Buenos Aires-GBA
+165;2;Churruca;Buenos Aires-GBA
+166;2;Ciudad Evita;Buenos Aires-GBA
+167;2;Ciudad Madero;Buenos Aires-GBA
+168;2;Ciudadela;Buenos Aires-GBA
+169;2;Claypole;Buenos Aires-GBA
+170;2;Crucecita;Buenos Aires-GBA
+171;2;Dock Sud;Buenos Aires-GBA
+172;2;Don Bosco;Buenos Aires-GBA
+173;2;Don Orione;Buenos Aires-GBA
+174;2;El Jagüel;Buenos Aires-GBA
+175;2;El Libertador;Buenos Aires-GBA
+176;2;El Palomar;Buenos Aires-GBA
+177;2;El Tala;Buenos Aires-GBA
+178;2;El Trébol;Buenos Aires-GBA
+179;2;Ezeiza;Buenos Aires-GBA
+180;2;Ezpeleta;Buenos Aires-GBA
+181;2;Florencio Varela;Buenos Aires-GBA
+182;2;Florida;Buenos Aires-GBA
+183;2;Francisco Álvarez;Buenos Aires-GBA
+184;2;Gerli;Buenos Aires-GBA
+185;2;Glew;Buenos Aires-GBA
+186;2;González Catán;Buenos Aires-GBA
+187;2;Gral. Lamadrid;Buenos Aires-GBA
+188;2;Grand Bourg;Buenos Aires-GBA
+189;2;Gregorio de Laferrere;Buenos Aires-GBA
+190;2;Guillermo Enrique Hudson;Buenos Aires-GBA
+191;2;Haedo;Buenos Aires-GBA
+192;2;Hurlingham;Buenos Aires-GBA
+193;2;Ing. Sourdeaux;Buenos Aires-GBA
+194;2;Isidro Casanova;Buenos Aires-GBA
+195;2;Ituzaingó;Buenos Aires-GBA
+196;2;José C. Paz;Buenos Aires-GBA
+197;2;José Ingenieros;Buenos Aires-GBA
+198;2;José Marmol;Buenos Aires-GBA
+199;2;La Lucila;Buenos Aires-GBA
+200;2;La Reja;Buenos Aires-GBA
+201;2;La Tablada;Buenos Aires-GBA
+202;2;Lanús;Buenos Aires-GBA
+203;2;Llavallol;Buenos Aires-GBA
+204;2;Loma Hermosa;Buenos Aires-GBA
+205;2;Lomas de Zamora;Buenos Aires-GBA
+206;2;Lomas del Millón;Buenos Aires-GBA
+207;2;Lomas del Mirador;Buenos Aires-GBA
+208;2;Longchamps;Buenos Aires-GBA
+209;2;Los Polvorines;Buenos Aires-GBA
+210;2;Luis Guillón;Buenos Aires-GBA
+211;2;Malvinas Argentinas;Buenos Aires-GBA
+212;2;Martín Coronado;Buenos Aires-GBA
+213;2;Martínez;Buenos Aires-GBA
+214;2;Merlo;Buenos Aires-GBA
+215;2;Ministro Rivadavia;Buenos Aires-GBA
+216;2;Monte Chingolo;Buenos Aires-GBA
+217;2;Monte Grande;Buenos Aires-GBA
+218;2;Moreno;Buenos Aires-GBA
+219;2;Morón;Buenos Aires-GBA
+220;2;Muñiz;Buenos Aires-GBA
+221;2;Olivos;Buenos Aires-GBA
+222;2;Pablo Nogués;Buenos Aires-GBA
+223;2;Pablo Podestá;Buenos Aires-GBA
+224;2;Paso del Rey;Buenos Aires-GBA
+225;2;Pereyra;Buenos Aires-GBA
+226;2;Piñeiro;Buenos Aires-GBA
+227;2;Plátanos;Buenos Aires-GBA
+228;2;Pontevedra;Buenos Aires-GBA
+229;2;Quilmes;Buenos Aires-GBA
+230;2;Rafael Calzada;Buenos Aires-GBA
+231;2;Rafael Castillo;Buenos Aires-GBA
+232;2;Ramos Mejía;Buenos Aires-GBA
+233;2;Ranelagh;Buenos Aires-GBA
+234;2;Remedios de Escalada;Buenos Aires-GBA
+235;2;Sáenz Peña;Buenos Aires-GBA
+236;2;San Antonio de Padua;Buenos Aires-GBA
+237;2;San Fernando;Buenos Aires-GBA
+238;2;San Francisco Solano;Buenos Aires-GBA
+239;2;San Isidro;Buenos Aires-GBA
+240;2;San José;Buenos Aires-GBA
+241;2;San Justo;Buenos Aires-GBA
+242;2;San Martín;Buenos Aires-GBA
+243;2;San Miguel;Buenos Aires-GBA
+244;2;Santos Lugares;Buenos Aires-GBA
+245;2;Sarandí;Buenos Aires-GBA
+246;2;Sourigues;Buenos Aires-GBA
+247;2;Tapiales;Buenos Aires-GBA
+248;2;Temperley;Buenos Aires-GBA
+249;2;Tigre;Buenos Aires-GBA
+250;2;Tortuguitas;Buenos Aires-GBA
+251;2;Tristán Suárez;Buenos Aires-GBA
+252;2;Trujui;Buenos Aires-GBA
+253;2;Turdera;Buenos Aires-GBA
+254;2;Valentín Alsina;Buenos Aires-GBA
+255;2;Vicente López;Buenos Aires-GBA
+256;2;Villa Adelina;Buenos Aires-GBA
+257;2;Villa Ballester;Buenos Aires-GBA
+258;2;Villa Bosch;Buenos Aires-GBA
+259;2;Villa Caraza;Buenos Aires-GBA
+260;2;Villa Celina;Buenos Aires-GBA
+261;2;Villa Centenario;Buenos Aires-GBA
+262;2;Villa de Mayo;Buenos Aires-GBA
+263;2;Villa Diamante;Buenos Aires-GBA
+264;2;Villa Domínico;Buenos Aires-GBA
+265;2;Villa España;Buenos Aires-GBA
+266;2;Villa Fiorito;Buenos Aires-GBA
+267;2;Villa Guillermina;Buenos Aires-GBA
+268;2;Villa Insuperable;Buenos Aires-GBA
+269;2;Villa José León Suárez;Buenos Aires-GBA
+270;2;Villa La Florida;Buenos Aires-GBA
+271;2;Villa Luzuriaga;Buenos Aires-GBA
+272;2;Villa Martelli;Buenos Aires-GBA
+273;2;Villa Obrera;Buenos Aires-GBA
+274;2;Villa Progreso;Buenos Aires-GBA
+275;2;Villa Raffo;Buenos Aires-GBA
+276;2;Villa Sarmiento;Buenos Aires-GBA
+277;2;Villa Tesei;Buenos Aires-GBA
+278;2;Villa Udaondo;Buenos Aires-GBA
+279;2;Virrey del Pino;Buenos Aires-GBA
+280;2;Wilde;Buenos Aires-GBA
+281;2;William Morris;Buenos Aires-GBA
